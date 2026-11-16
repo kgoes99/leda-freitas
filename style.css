@@ -18,7 +18,7 @@ dialog{max-width:min(720px,94vw);width:fit-content;border:0;border-radius:12px;p
 
 /* Approved panoramic portrait across the entire hero. */
 .hero{background:#ede0cd}
-.hero::before{background-image:url('assets/leda-hero-panoramica.png');background-size:cover;background-position:center;mask-image:none}
+.hero::before{background-image:url('assets/leda-hero-panoramica.webp');background-size:cover;background-position:center;mask-image:none}
 .hero::after{background:none}
 @media(max-width:1050px) and (min-width:651px){.hero::before{background-position:65% center}.hero::after{background:linear-gradient(90deg,#f3e7d7e8,transparent 68%)}}
 @media(max-width:650px){.hero{background:#f7f0e6;padding-bottom:80vw}.hero::before{height:85vw;background-size:auto 100%;background-position:right center}.hero::after{height:85vw;background:linear-gradient(#f7f0e6,transparent 17%)}.hero-copy{padding-bottom:22px}}
@@ -52,3 +52,4 @@ dialog{max-width:min(720px,94vw);width:fit-content;border:0;border-radius:12px;p
 @media(max-width:650px){.testimonial-controls{right:-8px}}
 @media(min-width:651px){.testimonial-controls{right:-66px}.testimonial-controls .testimonial-next{width:70px;height:70px}.testimonial-controls .testimonial-next img{width:30px;height:30px}}
 @media(max-width:650px){.testimonial-controls .testimonial-next{width:60px;height:60px}.testimonial-controls .testimonial-next img{width:28px;height:28px}}
+.gallery-controls{pointer-events:none}.gallery-controls button{pointer-events:auto}

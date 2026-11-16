@@ -237,7 +237,7 @@ function positionContact() {
   const size = 48;
   const right = document.documentElement.clientWidth;
   const bottom = window.innerHeight;
-  const protectedElements = document.querySelectorAll('main p,main h1,main h2,main h3,main a,main button,main input,main select,main textarea,main summary,footer a,footer p');
+  const protectedElements = compactLayout.matches ? document.querySelectorAll('main p,main h1,main h2,main h3,main a,main button,main input,main select,main textarea,main summary,footer a,footer p') : [];
   const overlaps = compactLayout.matches && [...protectedElements].some(element => {
     const bounds = element.getBoundingClientRect();
     return bounds.right > right - size - 13 && bounds.top < bottom - 5 && bounds.bottom > bottom - size - 13;
