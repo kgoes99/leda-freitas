@@ -1,0 +1,30 @@
+Lêda Freitas Buffet
+
+Para visualizar, extraia o ZIP inteiro e abra index.html. Para hospedar, publique o conteúdo mantendo a pasta assets ao lado de index.html. A versão HTML avulsa incorpora imagens, estilos, fontes e scripts no próprio arquivo.
+
+O formulário prepara uma mensagem para o WhatsApp confirmado do buffet, +55 75 98199-8707. A pessoa revisa e envia a mensagem no WhatsApp. A equipe combina valores, disponibilidade e eventual reserva na conversa. Os dados do formulário permanecem na página até a abertura do WhatsApp. O site não mantém cadastros nem banco de orçamentos.
+
+Fontes fotográficas
+
+Instagram de Lêda Freitas Buffet
+https://www.instagram.com/ledafreitasbuffet/
+sobremesas.webp e imagem de origem da capa: https://www.instagram.com/p/DdQ5WMMRvrs/
+grelhados.webp e história do cardápio: https://www.instagram.com/p/DfFYbYWOJdy/
+leda.webp: quadro do vídeo do ensaio em https://www.instagram.com/p/DduXUAxhrEZ/ . A publicação credita @videoforruy pelo vídeo, @deudexalmeida pela fotografia e @ericalizaraujo pela beleza.
+
+Perfil do buffet no Google Maps
+https://www.google.com/maps?cid=10130764697712242227
+Fotografias publicadas no perfil e incorporadas ao site: casamento.webp (ariadne nascimento), celebracoes.webp e salgados.webp (Alana Santiago), docinhos.webp e recepcao.webp (sem autoria identificada na ficha consultada).
+
+A capa assets/mesa-panoramica.webp é uma edição panorâmica com o recurso de imagens integrado do Codex. A fotografia original da mesa de sobremesas também está disponível na galeria. A assinatura tipográfica e a paleta vinho, marfim e tons quentes foram criadas para o site.
+
+Instrução usada na edição da capa
+Outpaint the provided photograph into a single seamless wide photographic hero panorama, landscape aspect ratio 3:1. This is a real Brazilian buffet's dessert table. Preserve the specific coupe glasses with the same fruit assortment, quantities, decoration and distinctive pudding with caramel popcorn on its crystal stand, ratios and shape. Compose the complete authentic cluster in the RIGHT half including the main foreground glass sit fully visible, and pudding behind. Extend the original scene substantially left and a little above into airy warm ivory-beige curtain folds and empty illuminated table, very low-contrast soft natural window light, spacious and realistic. Left 50% calm warm ivory space for HTML text, with extremely subtle warm shadows. Same camera angle, perspective, colours and continuous surface. Soft editorial film look with luminous amber and fruit tones, appetizing and elegant, no obvious edge or seam. No words, text, borders, logo, labels, decorative illustration or collage. Landscape 3000x1000.
+
+Tipografia: Cormorant Garamond e DM Sans, distribuídas pelo Google Fonts. Ícones de interface: Lucide. Símbolo do WhatsApp: Font Awesome Brands, CC BY 4.0. Licenças incluídas na pasta licencas.
+
+Hero atual: foto original de Lêda Freitas, Adriano Portugall Fotografia, primeira imagem da publicação https://www.instagram.com/p/Cr3NCB7gRxr/ . Retrato preservado, com enquadramento e transição de fundo em CSS.
+
+Hero atual aprovada: leda-hero-panoramica.png, versão panorâmica editada por IA a partir do retrato enviado, escolhida expressamente como referência visual.
+
+Galeria atualizada: sobremesas-artesanais.webp, https://www.instagram.com/p/CsXBMA5uYqd/ ; mesa-floral.webp, https://www.instagram.com/p/Crv9B5ftlGC/ . Primeiras imagens das publicações indicadas pelo usuário.
